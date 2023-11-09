@@ -1,0 +1,1 @@
+EUR: rateBuy: 39.40000, rateSell: 40.40000USD: rateBuy: 36.80000, rateSell: 37.40000
